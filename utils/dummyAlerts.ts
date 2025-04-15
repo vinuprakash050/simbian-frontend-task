@@ -1,0 +1,1 @@
+["Phishing Email", "Suspicious Login", "Data Exfiltration", "Ransomware Attempt"]
